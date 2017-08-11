@@ -43,7 +43,7 @@
 //#define QCurl_DEBUG
 
 #include <qplatformdefs.h>
-#include "QCurl.h"
+
 
 #ifndef QT_NO_HTTP
 # include "qtcpsocket.h"
